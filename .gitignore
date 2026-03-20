@@ -1,0 +1,8 @@
+# Секретные данные — НЕ коммитить
+key_mnemonic.txt
+*.json
+!config.example.json
+EM_RWS_OWNER_SEED.txt
+
+# Результаты
+robonomics_addresses.txt
